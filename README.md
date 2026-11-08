@@ -1,5 +1,9 @@
 # 🇳🇵 Nepali News Classifier
 
+# Nepali News Topic Classifier
+
+🚀 **Live Demo:** [Try the Nepali News Classifier](https://nepali-news-classifier-npo3slpxctyfyd9u642gno.streamlit.app/)
+
 A machine learning application that automatically classifies Nepali news articles into 16 different categories using Natural Language Processing (NLP) and Scikit-learn.
 
 The project explores different text representation techniques and classification algorithms, with an interactive Streamlit application for making predictions.
